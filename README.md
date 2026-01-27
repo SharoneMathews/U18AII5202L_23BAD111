@@ -5,13 +5,13 @@
 
 ---
 
-## 🎯 Objective
+## Objective
 
 To analyze and visualize the internal assessment performance of first-year engineering students across multiple subjects using appropriate data visualization techniques in **R**.
 
 ---
 
-## 💻 Software & Tools Used
+## Software & Tools Used
 
 - **R Version:** 4.4.1  
 
@@ -22,7 +22,7 @@ To analyze and visualize the internal assessment performance of first-year engin
 
 ---
 
-## 📁 Dataset Description
+## Dataset Description
 
 - **File Name:** `1.student_performance.csv`
 
@@ -37,7 +37,7 @@ The dataset contains student internal assessment details including:
 
 ---
 
-## 🔧 Steps Performed
+## Steps Performed
 
 ### 1. Load Required Libraries
 The necessary libraries for data manipulation and visualization are loaded using the `library()` function.
@@ -69,7 +69,7 @@ The dataset is imported into R using the `read.csv()` function.
 
 ---
 
-## 📊 Output Generated
+## Output Generated
 
 - Bar Chart showing subject-wise average marks  
 - Line Chart showing performance trend across tests  
@@ -79,20 +79,20 @@ The dataset is imported into R using the `read.csv()` function.
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 The visualization techniques used in this experiment effectively highlight subject difficulty, performance trends, and grade distribution. Such analysis helps academic institutions identify weak areas and improve teaching strategies.
 
 ---
 
-## 📝 Notes
+## Notes
 
 - Warning messages related to package build versions do not affect execution.
 - **Rtools is not required** as binary packages are used.
 
 ---
 
-## 📌 Author
+## Author
 
 **Sharone Mathews S**  
 Roll No: 23BAD111
